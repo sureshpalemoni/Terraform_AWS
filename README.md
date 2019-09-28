@@ -11,7 +11,7 @@ The state of this execution will be stored in S3 remote bucket.
 * Terraform Binary to execute the templates.
 * Provide the variables information is .tfvars file
 
-## Contributing
+## Output
 
 Once, the terraform is executed, it will output the ELB dns name. This dns will gove the nginx output.
 
